@@ -1,0 +1,14 @@
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\bin\Debug\net8.0\SpeedAir.exe
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\bin\Debug\net8.0\SpeedAir.deps.json
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\bin\Debug\net8.0\SpeedAir.runtimeconfig.json
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\bin\Debug\net8.0\SpeedAir.dll
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\bin\Debug\net8.0\SpeedAir.pdb
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\obj\Debug\net8.0\SpeedAir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\obj\Debug\net8.0\SpeedAir.AssemblyInfoInputs.cache
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\obj\Debug\net8.0\SpeedAir.AssemblyInfo.cs
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\obj\Debug\net8.0\SpeedAir.csproj.CoreCompileInputs.cache
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\obj\Debug\net8.0\SpeedAir.dll
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\obj\Debug\net8.0\refint\SpeedAir.dll
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\obj\Debug\net8.0\SpeedAir.pdb
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\obj\Debug\net8.0\SpeedAir.genruntimeconfig.cache
+C:\Users\SharfarazAhmedHameed\source\repos\SpeedAir\SpeedAir\obj\Debug\net8.0\ref\SpeedAir.dll
